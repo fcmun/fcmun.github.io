@@ -179,7 +179,7 @@ fieldset[disabled] .btn-primary.active {
     
  margin-left: -270px;
     top: -20px;
-	margin-top: 500px;
+	margin-top:480px;
 
 	
 	
@@ -1141,6 +1141,7 @@ footer {
 footer span.copyright {
     text-transform: uppercase;
     text-transform: none;
+     text-align: center;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     line-height: 10px;
     font-size: 85%;
